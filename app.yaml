@@ -1,0 +1,6 @@
+name: gunfall
+static_sites:
+- name: gunfall
+  build_command: npm run build
+  output_dir: dist
+  source_dir: /
